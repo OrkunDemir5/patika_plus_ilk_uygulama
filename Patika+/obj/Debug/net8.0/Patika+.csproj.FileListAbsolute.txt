@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Patika+\Patika+\bin\Debug\net8.0\Patika+.exe
+C:\Users\Orkun\source\repos\Patika+\Patika+\bin\Debug\net8.0\Patika+.deps.json
+C:\Users\Orkun\source\repos\Patika+\Patika+\bin\Debug\net8.0\Patika+.runtimeconfig.json
+C:\Users\Orkun\source\repos\Patika+\Patika+\bin\Debug\net8.0\Patika+.dll
+C:\Users\Orkun\source\repos\Patika+\Patika+\bin\Debug\net8.0\Patika+.pdb
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\Patika+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\Patika+.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\Patika+.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\Patika+.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\Patika+.dll
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\refint\Patika+.dll
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\Patika+.pdb
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\Patika+.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Patika+\Patika+\obj\Debug\net8.0\ref\Patika+.dll
